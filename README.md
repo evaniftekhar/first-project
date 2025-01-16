@@ -37,7 +37,7 @@ Gym Equipment Market Dataset ERD
 ## Insights Deep-Dive
 
 ### Yearly Profit Trends
-
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Yearly%20Profit%20Trends%20(exc%202024).png?raw=true)
 **Insights**: 
 - Profits have shown a declining trend over the years (excluding 2024). Some potential causes could be market saturation, economic or consumer shifts
 
