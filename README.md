@@ -76,7 +76,7 @@ Gym Equipment Market Dataset ERD
 ### Market Share Analysis
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Rowing%20Machines.png?raw=true)
-![image_alt]
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Treadmills.png?raw=true)
 
 **Insights**: 
 - Apex Athletics has the biggest market share increase for airbikes while Spartan Sports has the biggest decline in market share.
