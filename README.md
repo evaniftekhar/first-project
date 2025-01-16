@@ -74,7 +74,10 @@ Gym Equipment Market Dataset ERD
 - Peak Performance Gear has a steady recovery from double-year declines in 2019–2020.
 
 ### Market Share Analysis
-![image_alt]
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
+
 **Insights**: 
 - Apex Athletics has the biggest market share increase for airbikes while Spartan Sports has the biggest decline in market share.
 - Elevate Fitness has the biggest market share increase for rowing machines while Titan Training has the biggest decline in market share.
