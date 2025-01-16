@@ -18,26 +18,107 @@ Table of Contents
 
 ## Project Background
 
-This project is analyzing the gym equipment market to extract insights and deliver recommendations to improve performance across sales and products.
+This project is analyzing the gym equipment market to evaluate yearly and monthly profit trends, category, supplier, and brand performance for the gym equipment industry, providing actionable insights and recommendations for sustained growth and profitability.
 
 ## Executive Summary
 
-Gym Equipment sales analysis of 1,233 records across 2018-2024 shows YTD and MAT Profits. In 2024, Apex Athletics held the highest airbikes market share contributing 18% of sales; Elevate Fitness held the highest rowing machines market share contributing 21% of sales, and Spartan Sports held the highest Treadmills market share contributing 21% of sales.
+Gym Equipment sales analysis of 1,233 records from years 2018-2024 shows monthly profits, YTD and MAT Profits across gym brands, suppliers, and category of gym equipment. Overall from 2018 to 2024, Airbikes is the leading gym equipment category with $5.76M total profits; Peak Performance Gear leads supplier profit contributions with $5.77M total; and Steel Power is the top performing gym brand with $2.88M total profits. 
 
-Monitors and AirPods account for 60% of revenue, though customer retention is a concern as unique and repeat purchase rates have declined by 15% and 10%, respectively. ByteX can benefit from expanding top product lines, optimizing bundling, and enhancing loyalty programs to increase customer lifetime value. Targeted growth in APAC and LATAM, along with improvements to digital channels like the mobile app, will strengthen ByteX's market position and drive sustainable growth.
+In 2024 so far, Apex Athletics currently leads the airbikes market share contributing 18% of sales; Elevate Fitness leads the rowing machines market share contributing 21% of sales, and Spartan Sports leads the treadmills market share contributing 21% of sales.
+
+Companies can benefit from expanding top product lines, optimizing bundling, and enhancing loyalty fitness programs to increase customer lifetime value. Targeted marketing and sales campaigns in certain monthly peaks throughout the year, along with improvements to digital channels to reach broader audience, will strengthen a companies market position and drive sustainable growth.
 
 ![ByteX Dataset ERD](Data/visualizations/ecommerce_ERD.webp)
-ByteX Dataset ERD
+Gym Equipment Market Dataset ERD
 
 ## Insights Deep-Dive
 
-### Sales Trends and Growth Rates
+### Profit Trends and Growth Rates
 
-- ByteX averages $7 million in annual sales with 27,000 orders per year.
-- Sales surged in 2020 due to the pandemic but declined by 45% by 2022, returning to just above pre-pandemic levels as physical stores reopened.
-- ByteX shows seasonality, with peak sales in November and December and lower sales in February and October.
-- North America and EMEA contribute 80% of sales, with the U.S. alone accounting for 50%.
-- APAC and LATAM experienced an astounding +200% growth in 2020 but have remained volatile.
+1. Yearly Profit Trends
+Observation: Profits have shown a declining trend over the years (excluding 2024).
+Potential Causes:
+Market Saturation: Demand for gym equipment may have stabilized.
+Competitive Pressures: Increased competition may have reduced margins.
+Economic or Consumer Shifts: Changes in fitness trends or economic factors.
+Recommendations:
+Innovate Product Lines: Introduce trending items like smart fitness or eco-friendly equipment.
+Expand Markets: Target new regions or demographics to offset saturation.
+Focus on High-Margin Categories: Invest in products like Airbikes, which dominate profitability.
+
+2. Monthly Profit Trends
+Observation: Significant spikes in profits during May (Month 5), August (Month 8), and December (Month 12).
+Key Drivers:
+May: Pre-summer fitness preparations.
+August: Back-to-school promotions.
+December: Holiday shopping and New Year’s resolutions.
+Recommendations:
+Optimize Inventory: Stock up for peak demand periods in these months.
+Seasonal Campaigns:
+May: “Summer Fitness Prep” promotions.
+December: “New Year, New You” campaigns.
+Boost Off-Peak Months:
+Introduce discounts or bundle deals to stimulate demand during slower months.
+
+3. Category Performance
+Top Categories by Monthly Profit:
+Airbike: $5.76M
+Rowing Machine: $4.83M
+Treadmill: $4.81M
+Insights:
+Airbikes are significantly outperforming other categories.
+Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
+Recommendations:
+Focus on marketing and innovation for Airbikes to maintain the lead.
+Investigate ways to improve profitability for Rowing Machines and Treadmills.
+
+4. Supplier Performance
+Top Suppliers by Monthly Profit:
+Peak Performance Gear: $5.77M
+Iron Strength Equipment Co.: $4.82M
+Titan Fitness Supply: $4.81M
+Insights:
+Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
+Recommendations:
+Strengthen partnerships with Peak Performance Gear to maximize profitability.
+Identify operational improvements for other suppliers to enhance growth.
+
+5. Brand Performance
+Top Brands by Monthly Profit:
+Steel Power: $2.88M
+Elevate Fitness: $1.94M
+Titan Training: $1.93M
+Insights:
+Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
+Recommendations:
+Expand Steel Power’s market presence to maintain the lead.
+Position Elevate Fitness and Titan Training as alternatives for niche markets.
+
+6. YoY & MoM Growth Trends
+Supplier-Level Trends:
+Titan Fitness Supply: Most volatile, with sharp declines (2020, 2022) and strong recoveries (2021, 2023).
+Iron Strength Equipment Co.: Consistently modest growth with limited fluctuations.
+Peak Performance Gear: Steady recovery from double-year declines in 2019–2020.
+Overall Growth Insights:
+Average YoY growth rates vary significantly, with suppliers showing cyclical patterns.
+Recommendations:
+Stabilize Volatile Suppliers:
+Focus on operational efficiency for Titan Fitness Supply to reduce sharp fluctuations.
+Leverage Recovery:
+Use Peak Performance Gear’s growth momentum to introduce new premium products.
+Drive Consistency:
+Invest in predictive analytics and strategic planning for all suppliers to mitigate risks.
+
+Final Recommendations
+Capitalize on Trends:
+Focus marketing and inventory efforts on high-profit months (May, August, December) and leading categories (Airbikes).
+Optimize Supply Chain:
+Work closely with high-performing suppliers to ensure steady profitability.
+Enhance Innovation:
+Develop unique products (smart or eco-friendly fitness equipment) to counteract market saturation and attract new customers.
+Expand Market Reach:
+Target underpenetrated regions or new demographics to drive growth and offset declining profits.
+
 
 ![Annual Sales and Growth Rates](Data/visualizations/annual_sales.webp)
 ![Monthly Metrics](Data/visualizations/monthly_metrics.webp)
