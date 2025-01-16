@@ -84,8 +84,6 @@ Gym Equipment Market Dataset ERD
 - Spartan Sports has the biggest market share increase for treadmills while Hercules Gear has the biggest decline in market share.
 
 
-
-Final Recommendations
 Capitalize on Trends:
 Focus marketing and inventory efforts on high-profit months (May, August, December) and leading categories (Airbikes).
 Optimize Supply Chain:
@@ -98,45 +96,15 @@ Target underpenetrated regions or new demographics to drive growth and offset de
 
 ## Recommendations
 
+Capitalize on Monthly Trends
+
+- **Seasonal campaigns**: Focus marketing and inventory efforts on high-profit months (May, August, December).
+
+***
+
 Maximizing Product Offerings
 
-- **Expand High-Performing Categories**: Increase catalog variations in monitors, AirPods, and laptops to meet diverse customer needs with premium models, driving repeat purchases and solidifying market presence.
-- **Optimize Samsung Cable Pack**: Reevaluate the Samsung Cable Pack's pricing strategy, bundle it with high-value items, or offer as a promotional gift to increase average order value (AOV) and revenue contribution.
-
-***
-
-Customer Growth and Retention
-
-- **Boost Repeat Purchases**: Target single-purchase customers with personalized re-engagement campaigns and introduce tiered rewards within the loyalty program to incentivize frequent purchases and improve retention.
-- **Revitalize Customer Acquisition**: Expand acquisition channels to include social media, influencer partnerships, and affiliate programs. Refine ByteX's messaging to re-engage past customers and attract new ones.
-- **Leverage Core Customer Insights**: Analyze behaviors and preferences of repeat customers to enhance loyalty campaigns. Introduce referral incentives to drive word-of-mouth growth and increase new customer acquisition from existing networks.
-
-***
-
-Loyalty Program Enhancements
-
-- **Enhance Loyalty Onboarding**: Implement targeted onboarding campaigns with first-purchase discounts or early access offers. Tiered rewards will further incentivize frequent purchases and strengthen customer loyalty.
-- **Data-Driven Program Refinement**: Continuously monitor loyalty metrics to refine program offerings based on data, ensuring sustained engagement and effectiveness.
-
-***
-
-Maintaining Low Refund Rates
-
-- **Sustain Successful Practices**: Replicate effective strategies from 2021, including detailed product descriptions, stringent quality control, and robust post-purchase support, to maintain low refund rates and meet customer expectations.
-
-***
-
-Optimizing Channels and Platforms
-
-- **Expand Affiliate Partnerships**: Increase affiliate partnerships or offer higher commissions to attract influential marketers, enhancing brand reach and boosting AOV.
-- **Enhance Mobile App Experience**: Improve the mobile app's checkout and personalization features to capitalize on rising mobile usage and increase its contribution to total sales.
-
-***
-
-Regional Growth Strategies
-
-- **Focus on High-Performing Regions**: Continue allocating resources to North America and EMEA with regionalized marketing and product availability strategies tailored to local preferences.
-- **Target Growth in APAC and LATAM**: Leverage localized partnerships and culturally tailored promotions to capture growth potential in APAC and LATAM, stabilizing sales in these emerging markets.
+- **Expand High-Performing Categories**: Brands should expand their offerings to include all 3 categories like Steel Power did, which resulted them in performing the best over time.
 
 ***
 
@@ -158,24 +126,14 @@ Regional Growth Strategies
 
 ### Assumptions and Caveats
 
-- **Refund Records**: No refunds were recorded for 2022, which is an anomaly warranting further examination.
 - **Deterministic Relationship in Data**: Each `marketing_channel` is uniquely linked to one `account_creation_method`, indicating a one-to-one mapping. This lack of variation may require attention from the data engineering team to confirm intended relationships.
     - ![One to One Mapping](Data/visualizations/order_count_channelxmethod.webp)
-- **Loyalty Program Clarification**:
-    - Ambiguity exists in the `loyalty_program` variable—it's unclear if it's tied to the user's account or is specific to individual orders.
-    - Can a user be a loyalty member for one purchase and not another? This clarification is essential for accurately measuring program performance.
 - **Sales and Marketing Channels**: Direct and email channels are top drivers of sales, yet the link between these channels and the loyalty program is uncertain due to deterministic channel-account-order relationships.
-    - **Attribution of Purchases to Channels**: Ideally, each purchase would be attributed to the marketing channel that directly led to it, rather than defaulting all future purchases to the initial channel. However, the current dataset reflects the entry point at account creation, not at individual purchase. Despite this, the data provides insights on loyalty membership by channel:
-        - **Email Channel**: Highest loyalty membership rate at 58%.
-        - **Direct Channel**: Largest loyalty membership count, with 32,906 members (72% of all loyalty members).
-    - These metrics could inform strategic channel emphasis to boost loyalty engagement.
-- **Unmatched Customer Records**: Approximately 27k (25%) of transactions have `customer_id`s not present in the `customers` table. This discrepancy suggests missing data or data entry errors, impacting SQL queries and resulting in NULLs when joining on `customer_id`.
-    - This issue arises from the segmented structure of SQL tables (`orders`, `customers`, `geo_lookup`, `order_status`). However, in Excel, where all data resides in a single table, this issue doesn't occur.
 
 ***
 
 - See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/bytex_ecommerce_analysis.xlsx).
 - See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
 - See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
-- For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
+- For more  and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
 
