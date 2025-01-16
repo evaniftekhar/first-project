@@ -76,7 +76,7 @@ Gym Equipment Market Dataset ERD
 ### Market Share Analysis
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Rowing%20Machines.png?raw=true)
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Treadmills.png?raw=true)
+![image_alt]
 
 **Insights**: 
 - Apex Athletics has the biggest market share increase for airbikes while Spartan Sports has the biggest decline in market share.
@@ -95,33 +95,6 @@ Develop unique products (smart or eco-friendly fitness equipment) to counteract 
 Expand Market Reach:
 Target underpenetrated regions or new demographics to drive growth and offset declining profits.
 
-
-![Annual Sales and Growth Rates](Data/visualizations/annual_sales.webp)
-![Monthly Metrics](Data/visualizations/monthly_metrics.webp)
-
-
-
-
-![Product Performance Table](Data/visualizations/product_performance.webp)
-
-
-
-![Customer Retention Table](Data/visualizations/customer_retention.webp)
-
-
-
-
-![Loyalty Program Performance Table](Data/visualizations/loyalty.webp)
-![Loyalty Program Annual Metrics](Data/visualizations/loyalty_metrics.webp)
-
-
-
-
-![Sales by Platform and Channel](Data/visualizations/channel_platform.webp)
-
-
-
-![Loyalty Impact on Refund Rates](Data/visualizations/loyalty_impact_refund.webp)
 
 ## Recommendations
 
