@@ -83,17 +83,6 @@ Gym Equipment Market Dataset ERD
 - Elevate Fitness has the biggest market share increase for rowing machines while Titan Training has the biggest decline in market share.
 - Spartan Sports has the biggest market share increase for treadmills while Hercules Gear has the biggest decline in market share.
 
-
-Capitalize on Trends:
-Focus marketing and inventory efforts on high-profit months (May, August, December) and leading categories (Airbikes).
-Optimize Supply Chain:
-Work closely with high-performing suppliers to ensure steady profitability.
-Enhance Innovation:
-Develop unique products (smart or eco-friendly fitness equipment) to counteract market saturation and attract new customers.
-Expand Market Reach:
-Target underpenetrated regions or new demographics to drive growth and offset declining profits.
-
-
 ## Recommendations
 
 Capitalize on Monthly Trends
@@ -105,6 +94,12 @@ Capitalize on Monthly Trends
 Maximizing Product Offerings
 
 - **Expand High-Performing Categories**: Brands should expand their offerings to include all 3 categories like Steel Power did, which resulted them in performing the best over time.
+
+***
+
+Optimize Supply Chain
+
+- **Work Closely with high-performing suppliers**: Iron Strength Equipment dominates in rowing machines while Peak Performance dominates in Airbikes. For treadmills, you could go with either Peak Performance or Titan Fitness Supply as they have nearly the same market share.
 
 ***
 
