@@ -5,12 +5,13 @@ Table of Contents
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-    - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
-    - [Key Product Performance](#key-product-performance)
-    - [Customer Growth and Repeat Purchase Trends](#customer-growth-and-repeat-purchase-trends)
-    - [Loyalty Program Performance](#loyalty-program-performance)
-    - [Sales by Platforms & Channels](#sales-by-platforms--channels)
-    - [Refund Rate Trends](#refund-rate-trends)
+    - [Yearly Profit Trends](#yearly-profit-trends)
+    - [Monthly Profit Trends](#monthly-profit-trends)
+    - [Top Performance by Category](#customer-growth-and-repeat-purchase-trends)
+    - [Top Performance by Supplier](#loyalty-program-performance)
+    - [Top Performance by Brand](#sales-by-platforms--channels)
+    - [YoY & MoM Growth Trends](#refund-rate-trends)
+    - [Market Share Analysis](#refund-rate-trends)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
 
@@ -22,9 +23,11 @@ This project is analyzing the gym equipment market to evaluate yearly and monthl
 
 ## Executive Summary
 
-Gym Equipment sales analysis of 1,233 records from years 2018-2024 shows monthly profits, YTD and MAT Profits across gym brands, suppliers, and category of gym equipment. Overall from 2018 to 2024, Airbikes is the leading gym equipment category with $5.76M total profits; Peak Performance Gear leads supplier profit contributions with $5.77M total; and Steel Power is the top performing gym brand with $2.88M total profits. 
+Gym Equipment sales analysis of 1,233 records from years 2018-2024 shows monthly profits, YTD and MAT Profits across 9 gym brands, 3 suppliers (3 brands for each supplier), and 3 categories of gym equipment. 
 
-In 2024 so far, Apex Athletics currently leads the airbikes market share contributing 18% of sales; Elevate Fitness leads the rowing machines market share contributing 21% of sales, and Spartan Sports leads the treadmills market share contributing 21% of sales.
+From 2018 to 2024, Airbikes is the leading gym equipment category with $5.76M total profits (37% market share), noting that 6/9 brands sells airbikes while 5/9 brands sell rowing machines and treadmills. Peak Performance Gear leads supplier profit contributions with $5.77M total (37% market share). Steel Power is the top performing gym brand with $2.88M total profits (19% market share), noting that they are the only brand selling in all 3 categories while the others sell in 1 or 2 categories. 
+
+In 2024 so far, Apex Athletics currently leads the airbikes market share contributing 18% of sales with Peak Performance Gear suppling them; Elevate Fitness leads the rowing machines market share contributing 21% of sales with Peak Performance Gear also suppling them, and Spartan Sports leads the treadmills market share contributing 21% of sales with Iron Strength Equipment supplying them.
 
 Companies can benefit from expanding top product lines, optimizing bundling, and enhancing loyalty fitness programs to increase customer lifetime value. Targeted marketing and sales campaigns in certain monthly peaks throughout the year, along with improvements to digital channels to reach broader audience, will strengthen a companies market position and drive sustainable growth.
 
@@ -33,81 +36,48 @@ Gym Equipment Market Dataset ERD
 
 ## Insights Deep-Dive
 
-### Profit Trends and Growth Rates
+### Yearly Profit Trends
 
-1. Yearly Profit Trends
-Observation: Profits have shown a declining trend over the years (excluding 2024).
-Potential Causes:
-Market Saturation: Demand for gym equipment may have stabilized.
-Competitive Pressures: Increased competition may have reduced margins.
-Economic or Consumer Shifts: Changes in fitness trends or economic factors.
-Recommendations:
-Innovate Product Lines: Introduce trending items like smart fitness or eco-friendly equipment.
-Expand Markets: Target new regions or demographics to offset saturation.
-Focus on High-Margin Categories: Invest in products like Airbikes, which dominate profitability.
+**Insights**: 
+- Profits have shown a declining trend over the years (excluding 2024). Some potential causes could be market saturation, economic or consumer shifts
 
-2. Monthly Profit Trends
-Observation: Significant spikes in profits during May (Month 5), August (Month 8), and December (Month 12).
-Key Drivers:
-May: Pre-summer fitness preparations.
-August: Back-to-school promotions.
-December: Holiday shopping and New Year’s resolutions.
-Recommendations:
-Optimize Inventory: Stock up for peak demand periods in these months.
-Seasonal Campaigns:
-May: “Summer Fitness Prep” promotions.
-December: “New Year, New You” campaigns.
-Boost Off-Peak Months:
-Introduce discounts or bundle deals to stimulate demand during slower months.
+### Monthly Profit Trends
 
-3. Category Performance
-Top Categories by Monthly Profit:
-Airbike: $5.76M
-Rowing Machine: $4.83M
-Treadmill: $4.81M
-Insights:
-Airbikes are significantly outperforming other categories.
-Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
-Recommendations:
-Focus on marketing and innovation for Airbikes to maintain the lead.
-Investigate ways to improve profitability for Rowing Machines and Treadmills.
+**Insights**: 
+- Significant spikes in profits during May, August, and December. Key Drivers for May could be Pre-summer fitness preparations; for August it could be back-to-school promotions; for December it could be holiday shopping and New Year’s resolutions.
 
-4. Supplier Performance
-Top Suppliers by Monthly Profit:
-Peak Performance Gear: $5.77M
-Iron Strength Equipment Co.: $4.82M
-Titan Fitness Supply: $4.81M
-Insights:
-Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
-Recommendations:
-Strengthen partnerships with Peak Performance Gear to maximize profitability.
-Identify operational improvements for other suppliers to enhance growth.
+### Top Performance by Category
 
-5. Brand Performance
-Top Brands by Monthly Profit:
-Steel Power: $2.88M
-Elevate Fitness: $1.94M
-Titan Training: $1.93M
-Insights:
-Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
-Recommendations:
-Expand Steel Power’s market presence to maintain the lead.
-Position Elevate Fitness and Titan Training as alternatives for niche markets.
+**Insights**:
+- Airbikes are significantly outperforming other categories.
+- Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
 
-6. YoY & MoM Growth Trends
-Supplier-Level Trends:
-Titan Fitness Supply: Most volatile, with sharp declines (2020, 2022) and strong recoveries (2021, 2023).
-Iron Strength Equipment Co.: Consistently modest growth with limited fluctuations.
-Peak Performance Gear: Steady recovery from double-year declines in 2019–2020.
-Overall Growth Insights:
-Average YoY growth rates vary significantly, with suppliers showing cyclical patterns.
-Recommendations:
-Stabilize Volatile Suppliers:
-Focus on operational efficiency for Titan Fitness Supply to reduce sharp fluctuations.
-Leverage Recovery:
-Use Peak Performance Gear’s growth momentum to introduce new premium products.
-Drive Consistency:
-Invest in predictive analytics and strategic planning for all suppliers to mitigate risks.
+### Top Performance by Supplier
+
+**Insights**:
+- Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
+
+
+### Top Performance by Brand
+
+**Insights**:
+- Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
+
+### YoY & MoM Growth Trends
+
+**Insights**:
+- Titan Fitness Supply is the most volatile, with sharp declines (2020, 2022) and strong recoveries (2021, 2023).
+- Iron Strength Equipment has consistently modest growth with limited fluctuations.
+- Peak Performance Gear has a steady recovery from double-year declines in 2019–2020.
+
+### Market Share Analysis
+
+**Insights**: 
+- Apex Athletics has the biggest market share increase for airbikes while Spartan Sports has the biggest decline in market share.
+- Elevate Fitness has the biggest market share increase for rowing machines while Titan Training has the biggest decline in market share.
+- Spartan Sports has the biggest market share increase for treadmills while Hercules Gear has the biggest decline in market share.
+
+
 
 Final Recommendations
 Capitalize on Trends:
@@ -124,56 +94,26 @@ Target underpenetrated regions or new demographics to drive growth and offset de
 ![Monthly Metrics](Data/visualizations/monthly_metrics.webp)
 
 
-### Key Product Performance
 
-- During the pandemic, laptop sales soared, with MacBook orders increasing by 400% and ThinkPad by 220%. This trend has since reversed post-pandemic.
-- Four products: monitors, AirPods, laptops, and Samsung Cable Pack, generate 96% of total revenue.
-- AirPods account for 45% of all orders ($7.7M revenue).
-- Monitors lead in revenue, contributing $9.8 million (35% of total sales) from 2019 to 2022.
-- Samsung Cable Pack represents 20% of orders but only 2% of revenue, likely due to its low price or use in promotions.
 
 ![Product Performance Table](Data/visualizations/product_performance.webp)
 
-### Customer Growth and Repeat Purchase Trends
 
-- ByteX's unique customers grew steadily from 2019 to 2021, peaking at nearly 30,000 in 2021, but declined sharply by nearly 40% in 2022.
-- Repeat purchase rates (≥2 orders) consistently decreased, from 20.22% in 2019 to 14.76% in 2022, indicating challenges in retaining customers after initial purchases.
-- The stability in the number of repeat customers suggests a core base of loyal customers who consistently make multiple purchases each year.
-- The decline in both unique and repeat customers in 2022 highlights potential shifts in market dynamics or customer preferences.
 
 ![Customer Retention Table](Data/visualizations/customer_retention.webp)
 
 
-### Loyalty Program Performance
 
-- Loyalty members make their first purchase 20 days earlier (30% less time) than non-loyalty members (50 days vs. 70 days).
-- Post-pandemic, loyalty metrics surged but began slowing by 2022.
-- Loyalty members now lead in key metrics, generating $500K more in revenue, spending $30 more per order, and placing 500K more orders than non-loyalty members.
-- The loyalty program performs strongly in North America, while APAC and LATAM regions remain volatile, suggesting a need for targeted strategies.
-- Loyalty purchases have a higher refund rate than non-loyalty purchases.
 
 ![Loyalty Program Performance Table](Data/visualizations/loyalty.webp)
 ![Loyalty Program Annual Metrics](Data/visualizations/loyalty_metrics.webp)
 
 
-### Sales by Platforms & Channels
 
-- Direct channel account for 83% ($23M) of ByteX's sales.
-- Social media contributes 1% of sales, and affiliate channels contribute 3% ($878K).
-- Affiliate channels have the highest average order value (AOV) at $303, while email campaigns have the lowest AOV at $181.
-- The website generates 97% ($27M) of sales with an AOV of $304, whereas the mobile app ($867K) lags with an AOV of $47.
-- Further considerations on channel performance are detailed in the assumptions and caveats section.
 
 ![Sales by Platform and Channel](Data/visualizations/channel_platform.webp)
 
 
-### Refund Rate Trends
-
-- Refund rates for high-ticket items peaked early in the pandemic but have since stabilized at 4-6%.
-- In 2021, refunds decreased across all products compared to the the previous two years.
-- Laptops had the highest refund rates in 2019 and 2020 (17%) but have since dropped to 6-9%, aligning with other product categories.
-- Apple Airpods Headphones have the highest refund count at 2.6K (5% refund rate).
-- Loyalty purchases exhibit a higher refund rate than non-loyalty purchases, potentially warranting further investigation.
 
 ![Loyalty Impact on Refund Rates](Data/visualizations/loyalty_impact_refund.webp)
 
