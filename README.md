@@ -42,36 +42,36 @@ Gym Equipment Market Dataset ERD
 - Profits have shown a declining trend over the years (excluding 2024). Some potential causes could be market saturation, economic or consumer shifts
 
 ### Monthly Profit Trends
-
+![image_alt]
 **Insights**: 
 - Significant spikes in profits during May, August, and December. Key Drivers for May could be Pre-summer fitness preparations; for August it could be back-to-school promotions; for December it could be holiday shopping and New Year’s resolutions.
 
 ### Top Performance by Category
-
+![image_alt]
 **Insights**:
 - Airbikes are significantly outperforming other categories.
 - Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
 
 ### Top Performance by Supplier
-
+![image_alt]
 **Insights**:
 - Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
 
 
 ### Top Performance by Brand
-
+![image_alt]
 **Insights**:
 - Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
 
 ### YoY and MoM Growth Trends
-
+![image_alt]
 **Insights**:
 - Titan Fitness Supply is the most volatile, with sharp declines (2020, 2022) and strong recoveries (2021, 2023).
 - Iron Strength Equipment has consistently modest growth with limited fluctuations.
 - Peak Performance Gear has a steady recovery from double-year declines in 2019–2020.
 
 ### Market Share Analysis
-
+![image_alt]
 **Insights**: 
 - Apex Athletics has the biggest market share increase for airbikes while Spartan Sports has the biggest decline in market share.
 - Elevate Fitness has the biggest market share increase for rowing machines while Titan Training has the biggest decline in market share.
