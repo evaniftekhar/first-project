@@ -10,7 +10,7 @@ Table of Contents
     - [Top Performance by Category](#top-performance-by-category)
     - [Top Performance by Supplier](#top-performance-by-category)
     - [Top Performance by Brand](#top-performance-by-brand)
-    - [YoY and MoM Growth Trends](#YoY-&-MoM-Growth-Trends)
+    - [YoY and MoM Growth Trends](#YoY-and-MoM-Growth-Trends)
     - [Market Share Analysis](#market-share-analysis)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
@@ -63,7 +63,7 @@ Gym Equipment Market Dataset ERD
 **Insights**:
 - Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
 
-### YoY & MoM Growth Trends
+### YoY and MoM Growth Trends
 
 **Insights**:
 - Titan Fitness Supply is the most volatile, with sharp declines (2020, 2022) and strong recoveries (2021, 2023).
