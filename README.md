@@ -42,7 +42,7 @@ Gym Equipment Market Dataset ERD
 - Profits have shown a declining trend over the years (excluding 2024). Some potential causes could be market saturation, economic or consumer shifts
 
 ### Monthly Profit Trends
-![image_alt]
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Monthly%20Profit%20Trends%20(exc%202024).png?raw=true)
 **Insights**: 
 - Significant spikes in profits during May, August, and December. Key Drivers for May could be Pre-summer fitness preparations; for August it could be back-to-school promotions; for December it could be holiday shopping and New Year’s resolutions.
 
