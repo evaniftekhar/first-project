@@ -10,7 +10,7 @@ Table of Contents
     - [Top Performance by Category](#top-performance-by-category)
     - [Top Performance by Supplier](#top-performance-by-category)
     - [Top Performance by Brand](#top-performance-by-brand)
-    - [YoY & MoM Growth Trends](#yoy-&-mom-growth-trends)
+    - [YoY and MoM Growth Trends](#yoy-and-mom-growth-trends)
     - [Market Share Analysis](#market-share-analysis)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
