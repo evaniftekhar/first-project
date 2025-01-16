@@ -62,7 +62,7 @@ Gym Equipment Market Dataset ERD
 - .
 
 ### Top Performance by Brand
-![image_alt]
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Brand.png?raw=true)
 **Insights**:
 - Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
 
