@@ -47,7 +47,7 @@ Gym Equipment Market Dataset ERD
 - Significant spikes in profits during May, August, and December. Key Drivers for May could be Pre-summer fitness preparations; for August it could be back-to-school promotions; for December it could be holiday shopping and New Year’s resolutions.
 
 ### Top Performance by Category
-![image_alt]
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Category.png?raw=true)
 **Insights**:
 - Airbikes are significantly outperforming other categories.
 - Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
