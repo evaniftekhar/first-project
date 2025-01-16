@@ -57,6 +57,10 @@ Gym Equipment Market Dataset ERD
 **Insights**:
 - Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
 
+![image_alt]()
+
+
+
 
 ### Top Performance by Brand
 ![image_alt]
