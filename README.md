@@ -53,7 +53,7 @@ Gym Equipment Market Dataset ERD
 - Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
 
 ### Top Performance by Supplier
-![image_alt]
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Supplier.png?raw=true)
 **Insights**:
 - Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
 
