@@ -29,8 +29,6 @@ From 2018 to 2024, Airbikes is the leading gym equipment category with $5.76M to
 
 In 2024 so far, Apex Athletics currently leads the airbikes market share contributing 18% of sales with Peak Performance Gear suppling them; Elevate Fitness leads the rowing machines market share contributing 21% of sales with Peak Performance Gear also suppling them, and Spartan Sports leads the treadmills market share contributing 21% of sales with Iron Strength Equipment supplying them.
 
-Companies can benefit from expanding top product lines, optimizing bundling, and enhancing loyalty fitness programs to increase customer lifetime value. Targeted marketing and sales campaigns in certain monthly peaks throughout the year, along with improvements to digital channels to reach broader audience, will strengthen a companies market position and drive sustainable growth.
-
 ![ByteX Dataset ERD](Data/visualizations/ecommerce_ERD.webp)
 Gym Equipment Market Dataset ERD
 
