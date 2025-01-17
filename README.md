@@ -105,24 +105,6 @@ Optimize Supply Chain
 
 ### Questions for Stakeholders Prior to Project Advancement
 
-- **Unmatched `customer_id` Records**
-    - Which table should be the primary source for `customer_id` to maintain data consistency across analyses?
-
-- **`marketing_channel` and `account_creation_method` in the `customers` table**
-    - How is this data recorded, and what does it specifically represent?
-    - What factors contribute to their deterministic relationship?
-    - Does `marketing_channel` capture the initial account creation touchpoint, or does it represent the origin of each individual purchase (which is more relevant for tracking sales)?
-
-- **`loyalty_program` in the `customers` table**
-    - Is `loyalty_program` account-specific or tied to individual orders?
-    - Can loyalty membership status vary between orders for the same user, i.e., is it a subscription or a one-time sign-up?
-
-### Assumptions and Caveats
-
-- **Deterministic Relationship in Data**: Each `marketing_channel` is uniquely linked to one `account_creation_method`, indicating a one-to-one mapping. This lack of variation may require attention from the data engineering team to confirm intended relationships.
-    - ![One to One Mapping](Data/visualizations/order_count_channelxmethod.webp)
-- **Sales and Marketing Channels**: Direct and email channels are top drivers of sales, yet the link between these channels and the loyalty program is uncertain due to deterministic channel-account-order relationships.
-
 ***
 
 - See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/bytex_ecommerce_analysis.xlsx).
