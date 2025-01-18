@@ -71,7 +71,7 @@ Gym Equipment Market Dataset ERD
 - 2020 saw a general decline for most brands with many bounce backs in 2021, potentially reflecting the impact of the Covid-19 pandemic.
 - Elevate Fitness and Spartan Sports are the only brands with a cumulative positive growth in 5 years.
 - Titan Training and Ironclad Athletics have the biggest cumulative decline in growth in the last 5 years.
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/YoY%20and%20MoM%20Growth%20Rate.png?raw=true)                          
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/YoY%20and%20MoM%20Growth%20Rate.png?raw=true)                       
 
 ### Market Share Analysis
 **Insights**:
