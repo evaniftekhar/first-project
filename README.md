@@ -35,51 +35,53 @@ Gym Equipment Market Dataset ERD
 ## Insights Deep-Dive
 
 ### Yearly Profit Trends
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Yearly%20Profit%20Trends%20(exc%202024).png?raw=true)
 **Insights**: 
-- Profits have shown a declining trend over the years (excluding 2024). Some potential causes could be market saturation, economic or consumer shifts
+- Profits have shown a declining trend over the years (excluding 2024). Some potential causes could be market saturation, economic or consumer shifts.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Yearly%20Profit%20Trends%20(exc%202024).png?raw=true)
 
 ### Monthly Profit Trends
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Monthly%20Profit%20Trends%20(exc%202024).png?raw=true)
 **Insights**: 
-- Significant spikes in profits during May, August, and December. Key Drivers for May could be Pre-summer fitness preparations; for August it could be back-to-school promotions; for December it could be holiday shopping and New Year’s resolutions.
+- Significant spikes in profits during May, August, and December. Key Drivers for May could be pre-summer fitness preparations; for August it could be back-to-school promotions; for December it could be holiday shopping and New Year’s resolutions.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Monthly%20Profit%20Trends%20(exc%202024).png?raw=true)
 
 ### Top Performance by Category
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Category.png?raw=true)
 **Insights**:
-- Airbikes are significantly outperforming other categories.
-- Rowing Machines and Treadmills are closely competitive but lag behind Airbikes.
+- Airbikes are significantly outperforming other categories, but noting that it is the only category being sold by 6 brands, while the rowing machines and treadmilss are sold by 5 brands.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Category.png?raw=true)
 
 ### Top Performance by Supplier
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Supplier.png?raw=true)
 **Insights**:
 - Peak Performance Gear leads, but Iron Strength and Titan Fitness Supply are close competitors.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Supplier.png?raw=true)
 
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Supplier%20and%20Category.png?raw=true)
 **Insights**:
-- .
+- Peak Performance Gear dominates the airbike category.
+- Iron Strength Equipment dominates the rowing machine category.
+- Titan Fitness Supply and Peak Performance leads the treadmills category.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Supplier%20and%20Category.png?raw=true)
 
 ### Top Performance by Brand
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Brand.png?raw=true)
 **Insights**:
-- Steel Power significantly outperforms others, while Elevate Fitness and Titan Training are close competitors.
+- Steel Power significantly outperforms others, while noting that they are the only brand selling in all 3 categories.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Top%20Performance%20by%20Brand.png?raw=true)
 
 ### YoY and MoM Growth Trends
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/YoY%20and%20MoM%20Growth%20Rate.png?raw=true)                          
 **Insights**:
-- Titan Fitness Supply is the most volatile, with sharp declines (2020, 2022) and strong recoveries (2021, 2023).
-- Iron Strength Equipment has consistently modest growth with limited fluctuations.
-- Peak Performance Gear has a steady recovery from double-year declines in 2019–2020.
+- Hercules Gear appears to have the most significant swings, with alternative positive and negative growth
+- 2020 saw a general decline for most brands with many bounce backs in 2021, potentially reflecting the impact of the Covid-19 pandemic.
+- Elevate Fitness has the highest growth rate from 2018-2024
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/YoY%20and%20MoM%20Growth%20Rate.png?raw=true)                          
 
 ### Market Share Analysis
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Rowing%20Machines.png?raw=true)
-![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Treadmills.png?raw=true)
-
-**Insights**: 
+**Insights**:
 - Airbikes: Apex Athletics has the biggest market share increase while Spartan Sports has the biggest decline in market share.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
+**Insights**:
 - Rowing Machines: Elevate Fitness has the biggest market share increase while Titan Training has the biggest decline in market share.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Rowing%20Machines.png?raw=true)
+**Insights**:
 - Treadmills: Spartan Sports has the biggest market share increase while Hercules Gear has the biggest decline in market share.
+![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Treadmills.png?raw=true)
 
 ## Recommendations
 
