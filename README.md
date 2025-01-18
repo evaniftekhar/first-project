@@ -67,9 +67,10 @@ Gym Equipment Market Dataset ERD
 
 ### YoY and MoM Growth Trends
 **Insights**:
-- Hercules Gear appears to have the most significant swings, with alternative positive and negative growth
+- Hercules Gear appears to have the most significant swings, with alternative positive and negative growth, indicating they have less stability.
 - 2020 saw a general decline for most brands with many bounce backs in 2021, potentially reflecting the impact of the Covid-19 pandemic.
-- Elevate Fitness has the highest growth rate from 2018-2024
+- Elevate Fitness and Spartan Sports are the only brands with a cumulative positive growth in 5 years.
+- Titan Training and Ironclad Athletics have the biggest cumulative decline in growth in the last 5 years.
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/YoY%20and%20MoM%20Growth%20Rate.png?raw=true)                          
 
 ### Market Share Analysis
