@@ -110,5 +110,5 @@ Optimize Supply Chain
 
 ***
 
-- See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/Gym_Equipment_Profit_Analysis_Dataset.xlsx)
+- See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Gym_Equipment_Profit_Analysis_Dataset.xlsx)
 
