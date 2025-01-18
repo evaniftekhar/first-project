@@ -77,9 +77,11 @@ Gym Equipment Market Dataset ERD
 **Insights**:
 - Airbikes: Apex Athletics has the biggest market share increase while Spartan Sports has the biggest decline in market share.
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Airbikes.png?raw=true)
+                                                                                             
 **Insights**:
-- Rowing Machines: Elevate Fitness has the biggest market share increase while Titan Training has the biggest decline in market share.
+- Rowing Machines: Elevate Fitness has the biggest market share increase while Titan Training has the biggest decline in market share. 
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Rowing%20Machines.png?raw=true)
+                                                                                    
 **Insights**:
 - Treadmills: Spartan Sports has the biggest market share increase while Hercules Gear has the biggest decline in market share.
 ![image_alt](https://github.com/evaniftekhar/first-project/blob/main/Brand%20Market%20Share%20%25%20for%20Treadmills.png?raw=true)
